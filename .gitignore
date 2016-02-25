@@ -1,0 +1,4 @@
+._.gitignore
+*.DS_Store
+mariadb/
+www/
